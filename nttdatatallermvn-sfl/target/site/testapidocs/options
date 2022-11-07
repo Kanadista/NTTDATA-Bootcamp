@@ -1,0 +1,28 @@
+-classpath
+'C:/Users/Kanadista/eclipse-workspace/nttdatatallermvn-sfl/target/classes;C:/Users/Kanadista/eclipse-workspace/nttdatatallermvn-sfl/target/test-classes;C:/Users/Kanadista/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/Kanadista/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/Kanadista/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/Kanadista/eclipse-workspace/nttdatatallermvn-sfl/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Kanadista/eclipse-workspace/nttdatatallermvn-sfl/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'nttdatatallermvn-sfl 0.0.1-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/Kanadista/eclipse-workspace/nttdatatallermvn-sfl/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'nttdatatallermvn-sfl 0.0.1-SNAPSHOT Test API'
